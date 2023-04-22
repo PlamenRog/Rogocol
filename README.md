@@ -1,2 +1,2 @@
 # Rogocol
-A VPN protocol written in c
+A VPN protocol written in go
